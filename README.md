@@ -1,1 +1,2 @@
 # MatthewBerry200
+[Bookmarklet Test](javascript:(function(){var script=document.createElement('script');script.type='text/javascript';script.src='https://raw.githubusercontent.com/dquam/MatthewBerry200/master/berry200.js';document.body.appendChild(script);})())
